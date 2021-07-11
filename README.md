@@ -1,12 +1,12 @@
 # my-first-pygame
 my first pygame (very bad)
 
+  
+  
+  
 
-
-
-
-
-
+  
+  
 
 
 so basically this is a pygame test i decided to put out on github.  
